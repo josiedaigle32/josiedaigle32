@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
-- 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📧 josephinedaigle32@gmail.com  
+- 🌐 [GitHub](https://github.com/josiedaigle32)  
+- 📍 Based in Philadelphia, PA  
