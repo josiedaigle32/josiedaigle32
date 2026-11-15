@@ -5,7 +5,7 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+I’m a geographer masters student at Temple University, and interested in GIS for urban design
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+- **Current role:** Masters Student
+- **Interests:** Spatial Analysis, Regional Planning, Urban Theory
